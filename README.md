@@ -24,9 +24,9 @@ The current pet adoption landscape faces several critical challenges:
 
 ## 🎯 Objectives
 
-- ✅ Develop a comprehensive digital platform for pet adoption  
-- 🐶 Provide detailed pet profiles with comprehensive information  
-- 📉 Reduce administrative workload for shelter staff  
+- ✅ Develop a comprehensive digital platform for pet adoption.  
+- 🐶 Provide detailed pet profiles with comprehensive information. 
+- 📉 Reduce administrative workload for shelter staff.
 
 ---
 
