@@ -2,6 +2,8 @@
 
 **Project PAWS** is an innovative digital platform designed to streamline and enhance the pet adoption process while promoting animal welfare. It bridges the gap between potential pet adopters, animal shelters, and pet care services, creating a comprehensive ecosystem for pet adoption and care management.
 
+🔗 **Live Demo (for demonstration purposes only):** [[https://thepawss.netlify.app/](https://thepawss.netlify.app/)]
+
 ![image](https://github.com/user-attachments/assets/bf05266a-d219-498e-9de3-7bf82244ec9f)
 
 ![image](https://github.com/user-attachments/assets/d2464497-c9cd-4c9b-a477-e9ddfa9ede82)
