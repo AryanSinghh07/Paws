@@ -1,4 +1,4 @@
-# 🐾 Project PAWS - Pet Adoption and Welfare System
+# 🐾 Project PAWS - Pet Adoption and Welfare System.
 
 **Project PAWS** is an innovative digital platform designed to streamline and enhance the pet adoption process while promoting animal welfare. It bridges the gap between potential pet adopters, animal shelters, and pet care services, creating a comprehensive ecosystem for pet adoption and care management.
 
